@@ -2,21 +2,23 @@
 <h3 align="center">CTO, Software Engineer, Student | Based in Southern California</h3>
 
 <p align="center">
-  <a href="https://github.com/hxruhime">
-    <img src="https://img.shields.io/github/followers/hxruhime?label=Followers&style=social" alt="GitHub Followers">
+  <a href="https://github.com/hxruhime" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/hxruhime">
-    <img src="https://img.shields.io/twitter/follow/hxruhime?label=Twitter&style=social" alt="Twitter Followers">
+  <a href="https://leetcode.com/hxruhime" target="_blank">
+    <img src="https://img.shields.io/badge/leetcode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="mailto:hxruhime@example.com">
-    <img src="https://img.shields.io/badge/Email-me@example.com-red?style=flat-square&logo=gmail" alt="Email">
+  <a href="https://twitter.com/hxruhime" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:david@haruhime.holdings" target="_blank">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ### About Me
-- 🎓 **Education:** I'm currently a student in Southern California, constantly learning and exploring new technologies.
-- 💼 **Role:** CTO and Software Engineer with extensive experience in frontend and backend development.
-- 🌐 **Location:** Southern California
+- 🎓 **Education:** I'm currently a student in Southern California, studying computer science.
+- 💼 **Role:** CTO and Software Engineer with extensive experience in both frontend and backend development.
 - 🌱 **Currently Learning:** Enhancing my skills in cloud computing and microservices architecture.
 - ⚡ **Fun Fact:** I love solving complex problems and participating in coding challenges.
 
@@ -30,24 +32,8 @@
   </a>
 </div>
 
-<p align="center">
+<p align="center" style="padding-top:5px;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxruhime&theme=dark" alt="hxruhime" />
-</p>
-
-### Connect with Me
-<p align="center">
-  <a href="https://github.com/hxruhime" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/hxruhime" target="_blank">
-    <img src="https://img.shields.io/badge/leetcode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://twitter.com/hxruhime" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:hxruhime@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ### Languages and Tools
