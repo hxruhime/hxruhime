@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/leetcode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://t.me/hxruhime" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-2CA5E0.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:david@haruhime.holdings" target="_blank">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
