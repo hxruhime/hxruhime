@@ -4,3 +4,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-olive-nu-93.vercel.app/api/top-langs?username=hxruhime&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true&hide_border=true" />
 </a>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hxruhime/count.svg?"  />
+</div>
