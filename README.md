@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">CTO, Software Engineer, Student | Based in Los Angeles</h3>
+<h3 align="center">CTO, Software Engineer, Student | Based in Southern California</h3>
 
 ###
 
