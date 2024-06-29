@@ -32,10 +32,6 @@
   </a>
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxruhime&theme=dark" alt="hxruhime's GitHub Streak"/>
-</p>
-
 ### Languages and Tools
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
