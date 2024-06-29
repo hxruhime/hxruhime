@@ -22,7 +22,6 @@
 - 🌱 **Currently Learning:** Enhancing my skills in cloud computing and microservices architecture.
 - ⚡ **Fun Fact:** I love solving complex problems and participating in coding challenges.
 
-### GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats-olive-nu-93.vercel.app/api?username=hxruhime&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="hxruhime's GitHub Stats"/>
