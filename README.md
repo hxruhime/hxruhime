@@ -128,7 +128,7 @@
   </a>
 </p>
 
-### Visitor Count
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/hxruhime/count.svg?" />
 </div>
