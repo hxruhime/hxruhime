@@ -18,7 +18,7 @@
 
 ### About Me
 - 🎓 **Education:** I'm currently a student in Southern California, studying computer science.
-- 💼 **Role:** CTO and Software Engineer with extensive experience in both frontend and backend development.
+- 💼 **Role:** Experience in both frontend and backend development.
 - 🌱 **Currently Learning:** Enhancing my skills in cloud computing and microservices architecture.
 - ⚡ **Fun Fact:** I love solving complex problems and participating in coding challenges.
 
