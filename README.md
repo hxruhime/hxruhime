@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">CTO, Software Engineer, Student | Based in Southern California</h3>
+<h3 align="center">Student | Based in Southern California</h3>
 
 <p align="center">
   <a href="https://github.com/hxruhime" target="_blank">
